@@ -16,3 +16,9 @@
 -Javascript
 
 ### Deploy page 
+
+https://brandonslimwilliams.github.io/password-generator/
+
+## Created about
+
+Brandon Williams 
